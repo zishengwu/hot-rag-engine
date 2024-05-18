@@ -52,4 +52,28 @@
 - 硬件要求：对GPU要求较高
 
 
+ 6. MaxKB
+ - 项目地址：https://github.com/1Panel-dev/MaxKB
+
+ - 简介：MaxKB 是一款基于 LLM 大语言模型的知识库问答系统。MaxKB = Max Knowledge Base，旨在成为企业的最强大脑。
+
+ - 特性：开箱即用，支持直接上传文档、自动爬取在线文档；支持零编码快速嵌入到第三方业务系统；支持对接主流的大模型，包括 Ollama 本地私有大模型以及API调用
+
+ - 架构：
+  前端：Vue.js
+  后端：Python / Django
+  LangChain：LangChain
+  向量数据库：PostgreSQL / pgvector
+  大模型：Azure OpenAI、OpenAI、百度千帆大模型、Ollama、通义千问、Kimi、智谱 AI、讯飞星火
+ 
+ - 硬件要求：
+
+  操作系统：Ubuntu 22.04 / CentOS 7 64 位系统
+  CPU/内存： 推荐 2C/4GB 以上
+  磁盘空间：100GB
+
+
+                            
+
+
 
